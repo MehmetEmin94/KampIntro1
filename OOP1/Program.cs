@@ -17,6 +17,8 @@ namespace OOP1
 
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
+            productManager.Update(product1);
+
 
         }
     }

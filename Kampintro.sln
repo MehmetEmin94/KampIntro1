@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "DamaTahtasi\RecapDemo1.csproj", "{BB19D2D7-BA34-4155-96D0-51D9633B3B6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{74C0EF45-7DF5-4486-A012-6C4CB9AEEDEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{BB19D2D7-BA34-4155-96D0-51D9633B3B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB19D2D7-BA34-4155-96D0-51D9633B3B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB19D2D7-BA34-4155-96D0-51D9633B3B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C0EF45-7DF5-4486-A012-6C4CB9AEEDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C0EF45-7DF5-4486-A012-6C4CB9AEEDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C0EF45-7DF5-4486-A012-6C4CB9AEEDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C0EF45-7DF5-4486-A012-6C4CB9AEEDEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
